@@ -62,7 +62,7 @@ export default {
   methods:{
     getProduct(){
      ProductService.getproductdetails({
-       ğ
+
      }).then((res)=>{
        if(res.status===200){
           this.products=res.data

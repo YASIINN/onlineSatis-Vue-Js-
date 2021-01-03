@@ -1,29 +1,27 @@
-# onlinesatisapp
+# Online Satış App Demo Frontend VueJS
 
-## Project setup
-```
-npm install
-```
+## `npm install`
+diyerek bağımlılıkların yüklenmesi
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## `npm run serve`
+diyerek projenin ayağa kaldırılması
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Katmanlar
+- ApiService (Api Requests)
+- Components 
+- Plugins  
+- Provider   
+- Router 
+- Store (Vuex Modules)
 
-### Run your tests
-```
-npm run test
-```
+## Teknolojiler
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+1. Vuejs
+2. ChartJS
+3. MD%
+4. Vue-Router
+5. Vuex
+6. Sweetalert
+7. VueEditor
+8. Gulp
+9. Bootstrap
